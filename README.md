@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/suyashbalasubr1" target="blank"><img src="https://img.shields.io/twitter/follow/suyashbalasubr1?logo=twitter&style=for-the-badge" alt="suyashbalasubr1" /></a> </p>
 
-- 🔭 I’m currently working on [BIG SI BUCKS Intern](https://github.com/suyashB45/Big-Si-Bucks-Project)
+- 🔭 I’m currently working on [BIG SI BUCKS INTERN](https://github.com/suyashB45/Big-Si-Bucks-Project)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning , Data Science**
 
