@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Suyash<br><br>🔧 Currently pursuing Red Hat System Administrator certification  <br>🤖 Passionate about developing AI solutions in Computer Vision, NLP, and deep learning models like YOLO  <br>🛠️ Skilled in backend development with Django and relational database integration  <br>📦 I enjoy building reliable systems and blending DevOps practices with intelligent automation  <br>📚 Always exploring new technologies and contributing to open-source projects<br>
+👋 Hi, I'm Suyash<br><br>🔧 Currently Working on RAG and Agentic AI  <br>🤖 Passionate about AI Product Development  <br>🛠️ Skilled in LLM and backend development with Django and relational database integration  <br>📦 I enjoy building reliable systems and blending DevOps practices with intelligent automation  <br>📚 Always exploring new technologies and contributing to open-source projects<br>
 
 
 ## 🌐 Socials:
