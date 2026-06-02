@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suyash%20Balasubramaniam&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%26%20LLMOps%20%E2%80%A2%20RHCSA%20Certified&descAlignY=60&descSize=18" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+RAG+%2B+LLMOps+Specialist;Red+Hat+Certified+System+Administrator;Building+Production-Grade+AI+Systems;Flask+%7C+NestJS+%7C+Azure+OpenAI+%7C+FAISS;Patent+Holder+%E2%80%A2+World+Silambam+Medalist+%F0%9F%A5%8B" />
-</div>
+
+# Suyash Balasubramaniam
+
+### AI Engineer • RAG & LLMOps Specialist • RHCSA Certified
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+RAG+%2B+LLMOps+Specialist;Red+Hat+Certified+System+Administrator;Building+Production-Grade+AI+Systems;Flask+%7C+NestJS+%7C+Azure+OpenAI+%7C+FAISS;Patent+Holder+%E2%80%A2+World+Silambam+Medalist+%F0%9F%A5%8B" />
 
 <br/>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-70a5fd?style=flat-square)](https://v0-suyash-portfolio-s7.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=suyashB45&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/suyashB45)
@@ -139,14 +139,6 @@ class SuyashBalasubramaniam:
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suyashB45&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
----
-
 ## 🚀 Projects
 
 ### 🤖 [Coact.AI — AI Coaching Simulator](https://github.com/suyashB45)
@@ -216,11 +208,7 @@ class SuyashBalasubramaniam:
 |--------|-------------|------|-------|
 | B.Tech — Artificial Intelligence & Data Science | Sri Sairam Engineering College, Chennai | 2023 – 2027 | CGPA **7.52** |
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [![RHCSA](https://img.shields.io/badge/Red%20Hat%20Certified%20System%20Administrator-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/certification/rhcsa)
 
@@ -234,7 +222,7 @@ class SuyashBalasubramaniam:
 
 ```
 🤖 Agentic AI       →  Multi-agent orchestration, LangGraph, AutoGen
-🔧 LLM Fine-Tuning  →  LoRA / QLoRA, PEFT, RLHF, dataset curation
+🔧 LLM Fine-Tuning  →  LoRA / QLoFA, PEFT, RLHF, dataset curation
 ☁️  Cloud-Native     →  Kubernetes, Helm, container orchestration
 🔐 LLMOps           →  Guardrails, observability, evaluation pipelines
 📡 Streaming        →  WebSockets, event-driven architectures, n8n
@@ -247,7 +235,3 @@ class SuyashBalasubramaniam:
   <br/><br/>
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20AI%20Roles-38bdae?style=flat-square" />
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
