@@ -1,34 +1,267 @@
-# 💫 About Me:
-👋 Hi, I'm Suyash<br><br>🔧 Currently Working on RAG and Agentic AI  <br>🤖 Passionate about AI Product Development  <br>🛠️ Skilled in LLM and backend development with Django and relational database integration  <br>📦 I enjoy building reliable systems and blending DevOps practices with intelligent automation  <br>📚 Always exploring new technologies and contributing to open-source projects<br>
+<a href="https://github.com/suyashB45">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suyash%20Balasubramaniam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems%20%7C%20RHCSA%20Certified&descAlignY=62&descSize=16" />
+</a>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+RAG+%2B+LLMOps+Specialist;Red+Hat+Certified+System+Administrator;Building+Production-Grade+AI+Systems;Flask+%7C+NestJS+%7C+Azure+OpenAI+%7C+FAISS" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suyash.balasubramaniam) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_suyash.45) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyashb45) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/suyashb45/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suyashbalasubramaniam@gmail.com)
+<br/>
 
-## 🧩 Coding Profiles
-[![LeetCode Stats](https://leetcard.jacoblin.cool/suyashb45?theme=dark&font=Recursive)](https://leetcode.com/u/suyashb45/)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suyashB45&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suyashB45&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashB45&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suyashB45&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suyashB45&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=suyashB45&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/suyashB45?style=flat-square&color=bf91f3&label=Followers&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-RAG%20%26%20LLMOps-70a5fd?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38bdae?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suyashB45&icon=9&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class SuyashBalasubramaniam:
+
+    name       = "Suyash Balasubramaniam"
+    location   = "Chennai, India 🇮🇳"
+    degree     = "B.Tech — AI & Data Science (2023–2027)"
+    college    = "Sri Sairam Engineering College"
+    cgpa       = 7.52
+
+    stack = [
+        "Python", "Flask", "NestJS", "Django",
+        "Azure OpenAI", "FAISS", "RAG", "Docker",
+        "PostgreSQL", "MySQL", "MongoDB"
+    ]
+
+    currently_learning = [
+        "Advanced Agentic AI Workflows",
+        "LLM Fine-Tuning & Model Optimization",
+        "Kubernetes & Cloud-Native DevOps",
+    ]
+
+    certifications = [
+        "Red Hat Certified System Administrator (RHCSA)",
+        "Credential ID: 250-094-836"
+    ]
+
+    fun_fact = "3rd place at the World Open Silambam Championship 🥋"
+
+    def motto(self):
+        return "Build systems that think. Deploy code that scales. 🚀"
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Analytics & Automation**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![UIPath](https://img.shields.io/badge/UIPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/suyashB45">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=suyashB45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Suyash's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/suyashB45">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashB45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=suyashB45&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suyashB45&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suyashB45&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+  <summary><b>🏭 GH Induction India Pvt Ltd — Software Development Engineer Intern | Chennai | Mar 2026 – Jun 2026</b></summary>
+  <br/>
+
+  > ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![FCM](https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+  - Developed **NestJS backend modules** for full service ticket lifecycle management with role-based access and request validation
+  - Integrated **Firebase Cloud Messaging (FCM)** push notifications for real-time assignment alerts and status updates on Android & iOS
+  - Architected and managed **MySQL schema** for service tickets, employee records, and client data
+  - Ensured reliable data flow across web, mobile, and database layers through clean API design
+
+</details>
+
+<details>
+  <summary><b>🤖 Maestrominds — AI Product Developer | Chennai | Mar 2024 – Mar 2026</b></summary>
+  <br/>
+
+  > ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-bf91f3?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+  - Engineered and deployed the **core GPT-4.1-Mini generative AI platform** (Flask/Azure), managing the end-to-end LLMOps lifecycle
+  - Achieved **25% reduction in inference latency** through optimized cloud deployment and pipeline architecture
+  - Built **RAG architecture with FAISS vector store** for dynamic coaching guidance aligned to enterprise frameworks (GROW, STAR)
+  - Integrated analytics engine generating **PDF reports** with sentiment trends and communication feedback across **5+ metrics**
+
+</details>
+
+<details>
+  <summary><b>🏢 Saint-Gobain India Pvt Ltd (INDEC 4.0) — Web Development Intern | Chennai | Jan 2025 – Feb 2025</b></summary>
+  <br/>
+
+  > ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+  - Designed and deployed a **full-stack Django + PostgreSQL** enterprise asset management application
+  - Handled **1,000+ asset records** with full CRUD operations, relational schema design, and role-based access controls
+  - Delivered a scalable, enterprise-grade solution aligned with internal IT standards at a Fortune 500 company
+
+</details>
+
+<details>
+  <summary><b>📊 Vebbox Software Solution — Data Analyst Intern | Chennai | Jul 2024 – Jan 2025</b></summary>
+  <br/>
+
+  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![UIPath](https://img.shields.io/badge/UIPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+  - Streamlined data ingestion by automating **Python and UIPath pipelines** converting unstructured datasets into structured JSON
+  - Reduced manual data processing effort and accelerated **AI model training data preparation**
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [**Coact.AI — AI Coaching Simulator**](https://github.com/suyashB45) | Flask · Azure OpenAI · FAISS · RAG · Python | 95% adherence to GROW & STAR coaching frameworks; generates evidence-based feedback on 5+ communication metrics for enterprise clients |
+| [**ThermoRevive — TEG Energy Recovery**](https://github.com/suyashB45) | Seebeck Effect · TEG Modules · CMS Dashboard · Sensors | Patent Filed: 202541114252 A (Published Jan 2026); converts transformer waste heat to usable DC electricity; real-time CMS monitoring with predictive analytics |
+| [**Enterprise Asset Lifecycle System**](https://github.com/suyashB45) | Django · PostgreSQL · HTML · CSS · JavaScript | Manages 1,000+ asset records with role-based access controls; full CRUD ops; deployed for Saint-Gobain India (INDEC 4.0) |
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|----|-------------|---------|
+| 🥋 | **World Open Silambam Championship 2025** | 2nd Runner-Up, Under-25 Category — Represented India at an international traditional martial arts competition held in Qatar |
+| 📜 | **Red Hat Certified System Administrator (RHCSA)** | Issued by Red Hat, Inc. · Credential ID: 250-094-836 · Linux admin, storage, networking & security on RHEL |
+| 💡 | **Patent Filed** | ThermoRevive — TEG-based transformer waste heat recovery system · Application No. 202541114252 A · Published Jan 2026 |
+| 🎙️ | **IEEE Vice Chairperson — CTSoc** | Led chapter activities, technical events, and member engagement at IEEE Consumer Technology Society, Sri Sairam Chapter |
+| 🔬 | **IEEE Event Organiser — NPSS** | Coordinated technical workshops and guest sessions for IEEE Nuclear Plasma Science Society, Sri Sairam Chapter |
+| 📋 | **Event Coordinator — NCAAIET'25** | Managed logistics and speaker coordination for the Fourth National Conference on Advancement in AI & Emerging Trends |
+| ⚓ | **Secretary — Marine Technology Society** | Oversaw admin operations and facilitated interdisciplinary technical programs at MTS Sri Sairam Chapter |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
+|-----------|----------------|---------|---------|
+| B.Tech — Artificial Intelligence & Data Science | Sri Sairam Engineering College, Chennai | 2023 – 2027 | CGPA: 7.52 (Till V Sem) |
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+```
+🤖 Agentic AI      → Multi-agent orchestration, LangGraph, AutoGen
+🔧 LLM Fine-Tuning → LoRA / QLoRA, PEFT, RLHF, dataset curation
+☁️  Cloud-Native    → Kubernetes, Helm charts, container orchestration
+🔐 LLMOps          → Guardrails, observability, evaluation pipelines
+📡 Streaming       → WebSockets, event-driven architectures, n8n workflows
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyashb45)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/suyashB45)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suyashbalasubramaniam@gmail.com)
+[![RHCSA](https://img.shields.io/badge/RHCSA%20Certified-EE0000?style=flat-square&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/certification/rhcsa)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Build systems that think. Deploy code that scales." ⚡</i>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
