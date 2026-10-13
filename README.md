@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&width=750&lines=building+the+systems+behind+intelligent+products;RAG+%2B+LLMOps+%7C+Flask+%7C+NestJS+%7C+Django;AI+is+a+service%2C+not+a+black+box;patent+holder+%E2%80%A2+world+silambam+medalist" />
 
-[**🌐 portfolio**](https://suyashbalasubramaniam.vercel.app/) · [**📄 resume**](https://suyashbalasubramaniam.vercel.app/Suyash_Balasubramaniam_Resume.pdf) · [**in linkedin**](https://linkedin.com/in/suyashb45) · [**✉ mail**](mailto:suyashbalasubramaniam@gmail.com) · [**🐦 x**](https://x.com/suyashbalasubr1)
+[**🌐 portfolio**]([https://suyashb.me/](https://suyashb.me/)) · [**📄 resume**](https://suyashbalasubramaniam.vercel.app/Suyash_Balasubramaniam_Resume.pdf) · [**in linkedin**](https://linkedin.com/in/suyashb45) · [**✉ mail**](mailto:suyashbalasubramaniam@gmail.com) · [**🐦 x**](https://x.com/suyashbalasubr1)
 
 *(the portfolio has a working terminal easter egg — type `help` when you get there)*
 
