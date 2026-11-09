@@ -47,10 +47,10 @@ I'm studying Artificial Intelligence & Data Science at Sri Sairam Engineering Co
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://suyashb.me"><img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:0f2027,100:2c5364&text=Coact.ai&fontColor=ffffff&fontSize=34&desc=AI%20coaching%20platform&descSize=15&descAlignY=72" width="100%" alt="Coact.ai — AI coaching platform built with Flask, Azure OpenAI, and FAISS." /></a>
+      <a href="https://suyashb.me"><img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:0f2027,100:2c5364&text=Coact.ai&fontColor=ffffff&fontSize=34&desc=AI%20coaching%20platform&descSize=18&descAlignY=75" width="100%" alt="Coact.ai — AI coaching platform built with Flask, Azure OpenAI, and FAISS." /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/suyashB45/ros2-thermorevive-digital-twin"><img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:0f2027,100:1b6b63&text=ThermoRevive&fontColor=ffffff&fontSize=34&desc=Energy%20system%20%26%20digital%20twin&descSize=15&descAlignY=72" width="100%" alt="ThermoRevive — energy system and digital twin using ROS 2, FastAPI, and PostgreSQL." /></a>
+      <a href="https://github.com/suyashB45/ros2-thermorevive-digital-twin"><img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:0f2027,100:1b6b63&text=ThermoRevive&fontColor=ffffff&fontSize=34&desc=Energy%20system%20and%20digital%20twin&descSize=18&descAlignY=75" width="100%" alt="ThermoRevive — energy system and digital twin using ROS 2, FastAPI, and PostgreSQL." /></a>
     </td>
   </tr>
 </table>
