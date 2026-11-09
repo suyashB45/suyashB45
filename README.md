@@ -1,184 +1,245 @@
-<div align="center">
+<!-- ============================== HEADER ============================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:2c5364,100:70a5fd&text=Suyash%20Balasubramaniam&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Backend%20Developer%20%C2%B7%20RHCSA&descSize=18&descAlignY=58&animation=fadeIn" alt="Suyash Balasubramaniam banner" />
+</p>
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  suyash@buildbox:~$ whoami                                         ║
-║  > Suyash Balasubramaniam                                          ║
-║  > AI Engineer · Backend Builder · Red Hat Certified SysAdmin      ║
-║  > status: open to Software Engineering / AI Engineering roles     ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <a href="https://github.com/suyashB45/suyashB45">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+the+systems+behind+intelligent+products;RAG+%2B+LLM+systems+with+production+backends;NestJS+%7C+Django+%7C+Flask;AI+is+a+service%2C+not+a+black+box" alt="Typing animation" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&width=750&lines=building+the+systems+behind+intelligent+products;RAG+%2B+LLMOps+%7C+Flask+%7C+NestJS+%7C+Django;AI+is+a+service%2C+not+a+black+box;patent+holder+%E2%80%A2+world+silambam+medalist" />
+<p align="center">
+  <a href="https://suyashb.me/"><img src="https://img.shields.io/badge/Portfolio-suyashb.me-70a5fd?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/suyashb45"><img src="https://img.shields.io/badge/LinkedIn-suyashb45-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:suyashbalasubramaniam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://suyashbalasubramaniam.vercel.app/Suyash_Balasubramaniam_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-38bdae?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://x.com/suyashbalasubr1"><img src="https://img.shields.io/badge/X-@suyashbalasubr1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-[**🌐 portfolio**]([https://suyashb.me/](https://suyashb.me/)) · [**📄 resume**](https://suyashbalasubramaniam.vercel.app/Suyash_Balasubramaniam_Resume.pdf) · [**in linkedin**](https://linkedin.com/in/suyashb45) · [**✉ mail**](mailto:suyashbalasubramaniam@gmail.com) · [**🐦 x**](https://x.com/suyashbalasubr1)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=flat-square" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-informational?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/RHCSA-250--094--836-ee0000?style=flat-square&logo=redhat&logoColor=white" alt="RHCSA" />
+  <img src="https://img.shields.io/badge/Patent-202541114252%20A-8957e5?style=flat-square" alt="Patent" />
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20DS%20'27-f0883e?style=flat-square" alt="B.Tech" />
+</p>
 
-*(the portfolio has a working terminal easter egg — type `help` when you get there)*
+---
 
-</div>
+<!-- ============================== ABOUT ============================== -->
+## About Me
 
-<br>
+Final-year **B.Tech (AI & Data Science)** student with hands-on backend engineering experience across **NestJS, Django, and Flask**. I build production systems that handle **1,000+ records** with real-time notifications and role-based access control, and I design scalable REST APIs, relational schemas, and CI/CD workflows. I also build **RAG and LLM-based systems**.
 
-## `$ neofetch`
+> **Seeking a Software Engineer role** to apply backend architecture and full-stack development skills in a production environment.
 
-```
-                                    suyash@buildbox
-        ▄▄▄▄▄▄▄▄▄               ────────────────────────────────────────
-      ▄█████████████▄          OS: Chennai, India (IST)
-    ▄███████████████████▄      Host: Sri Sairam Engineering College
-   ████████▀▀▀▀▀▀▀████████     Kernel: B.Tech AI & Data Science '27
-   ███████    AI    ███████    Uptime: since 2004, actively compiling
-   ████████▄▄▄▄▄▄▄████████     Packages: 29 (languages/frameworks)
-    ▀███████████████████▀      Shell: zsh — literally, ask the portfolio
-      ▀█████████████▀          Resolution: full-stack (backend-first)
-        ▀▀▀▀▀▀▀▀▀               DE: Flask / NestJS / Django
-                                CPU: RHCSA-certified Linux admin
-                                GPU: PyTorch · TensorFlow · YOLO
-                                Memory: FAISS-indexed, RAG-augmented
-                                Locale: en_IN, occasionally silambam-fluent
+<table align="center">
+  <tr>
+    <td align="center"><h3>1,000+</h3><sub>records handled in<br/>production systems</sub></td>
+    <td align="center"><h3>5</h3><sub>industry roles<br/>& internships</sub></td>
+    <td align="center"><h3>3</h3><sub>backend frameworks<br/>NestJS · Django · Flask</sub></td>
+    <td align="center"><h3>1</h3><sub>patent application<br/>(published Jan 2026)</sub></td>
+  </tr>
+</table>
+
+---
+
+<!-- ============================== TECH STACK ============================== -->
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,django,flask,nestjs&perline=7" alt="Languages and frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,docker,linux,git&perline=8" alt="Databases and DevOps" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,azure,powerbi&perline=4" alt="AI and analytics" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-0467df?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078d4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00ffff?style=flat-square&logoColor=black&labelColor=111" />
+  <img src="https://img.shields.io/badge/LLM%20Deployment-ff6f00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Fine--tuning-db61a2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Podman-892ca0?style=flat-square&logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088ff?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/UiPath-fa4616?style=flat-square&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
+
+---
+
+<!-- ============================== ARCHITECTURE ============================== -->
+## How I Build AI Systems
+
+The AI is never the whole system. It is one accountable service inside one.
+
+```mermaid
+flowchart LR
+    A["Clients<br/>Web / Mobile"] --> B["API Gateway<br/>Auth · RBAC"]
+    B --> C["Backend Services<br/>NestJS · Django · Flask"]
+    C --> D["AI Layer<br/>RAG · Prompts · Azure OpenAI"]
+    C --> E[("Data Layer<br/>PostgreSQL · MySQL")]
+    D --> F[("Vector Store<br/>FAISS")]
+    C -. "push alerts" .-> G["Firebase FCM"]
+    G -.-> A
+
+    style A fill:#1f6feb,stroke:#1f6feb,color:#fff
+    style B fill:#8957e5,stroke:#8957e5,color:#fff
+    style C fill:#2c5364,stroke:#2c5364,color:#fff
+    style D fill:#db61a2,stroke:#db61a2,color:#fff
+    style E fill:#2ea043,stroke:#2ea043,color:#fff
+    style F fill:#2ea043,stroke:#2ea043,color:#fff
+    style G fill:#f0883e,stroke:#f0883e,color:#fff
 ```
 
 ---
 
-## `$ cat about.md`
+<!-- ============================== EXPERIENCE ============================== -->
+## Experience
 
-I'm a final-year B.Tech (AI & Data Science) student who spends more time in backend repos than in AI notebooks — because the model is only as good as the system carrying its output to a user. I've shipped NestJS ticketing systems handling 1,000+ records with live push notifications, RBAC-secured Django platforms for enterprise asset tracking, and a GenAI coaching engine (RAG + FAISS) currently running at **95% framework adherence** in production.
+| Period | Role | Organization | Focus |
+|:---|:---|:---|:---|
+| **Sep 2026 – Dec 2026** | Digital Transformation Fellow | Confederation of Indian Industry (CII) | DX-EDGE program: technology adoption with Cloud, AI/ML, Data Analytics, Cybersecurity |
+| **Mar 2026 – Jun 2026** | Software Development Engineer Intern | GH Induction India Pvt Ltd | NestJS · MySQL · Firebase FCM |
+| **Mar 2024 – Mar 2026** | AI Product Developer | Maestrominds | Flask · Azure OpenAI · FAISS RAG |
+| **Jan 2025 – Feb 2025** | Web Development Intern | Saint-Gobain India (INDEC 4.0) | Django · PostgreSQL · RBAC |
+| **Jul 2024 – Jan 2025** | Data Analyst Intern | Vebbox Software Solutions | Python · UiPath · Data pipelines |
 
-Somewhere between semesters I also filed a patent on waste-heat energy recovery and medaled at a world silambam championship. Systems thinking, apparently, isn't just for code.
+<details>
+<summary><b>View responsibilities and impact</b></summary>
+<br/>
 
----
+**Digital Transformation Fellow, CII** *(Sep 2026 – Dec 2026)*
+- Through the DX-EDGE program, collaborating with industry mentors and technology solution providers to identify technology adoption challenges and support scalable solutions using Cloud, AI/ML, Data Analytics, and Cybersecurity.
 
-## `$ tree projects/`
+**Software Development Engineer Intern, GH Induction India** *(Mar 2026 – Jun 2026)*
+- Engineered core NestJS backend modules for service ticket lifecycle management.
+- Designed MySQL schemas to handle 1,000+ records.
+- Integrated Firebase Cloud Messaging (FCM) for real-time technician alerts on Android devices.
 
-```
-projects/
-├── coact-ai/                  # Flask · Azure OpenAI · FAISS · RAG
-│   └── AI coaching sim adapting to GROW & STAR frameworks
-│       → 95% framework adherence · 25% lower inference latency
-│       → 5+ real-time communication metrics scored live
-│
-├── thermorevive/               # Python · Real-time CMS · Patent 202541114252 A
-│   └── Transformer waste-heat → usable DC electricity (TEG + Seebeck effect)
-│       → live sensor CMS + predictive maintenance
-│       → ROS2 digital twin — in progress
-│
-├── enterprise-asset-lifecycle/ # Django · PostgreSQL · RBAC
-│   └── Full CRUD lifecycle platform, 1,000+ records, enterprise IT compliant
-│
-├── service-request-platform/   # NestJS · MySQL · Firebase FCM
-│   └── Ticket lifecycle mgmt + real-time technician push alerts
-│
-├── amazon-ml-challenge-2025/   # Python · OCR · CV
-│   └── Product entity extraction from e-commerce imagery
-│
-└── big-si-bucks/               # Python · Jupyter
-    └── Customer behavior analytics + personalized recommendations
-```
+**AI Product Developer, Maestrominds** *(Mar 2024 – Mar 2026)*
+- Built a GenAI coaching platform on Flask and Azure OpenAI.
+- Implemented a RAG engine (FAISS) that adapts to coaching frameworks such as GROW and STAR and provides real-time conversational feedback.
 
-→ browse the source: [`github.com/suyashB45`](https://github.com/suyashB45) · deeper write-ups: [`portfolio/work`](https://suyashbalasubramaniam.vercel.app/work)
+**Web Development Intern, Saint-Gobain India** *(Jan 2025 – Feb 2025)*
+- Developed a full-stack enterprise asset management system using Django and PostgreSQL.
+- Implemented RBAC and complex relational schemas to secure business-critical inventory data.
 
----
+**Data Analyst Intern, Vebbox Software Solutions** *(Jul 2024 – Jan 2025)*
+- Automated data ingestion pipelines with Python and UiPath, converting unstructured data into JSON to speed up AI model training preparation.
 
-## `$ history | tail -5`
-
-```bash
-[2026-09] Digital Transformation Fellow @ CII
-          → Dx-EDGE initiative (CII · NITI Aayog · AICTE)
-          → Digital Maturity Diagnostic Framework for MSME tech adoption
-
-[2026-03] Software Development Engineer Intern @ GH Induction India
-          → built NestJS ticket-lifecycle modules, MySQL @ 1,000+ records
-          → FCM push notifications, real-time technician alerts
-
-[2024-03] Applied GenAI Developer @ Maestrominds
-          → Flask + Azure OpenAI coaching platform, FAISS RAG engine
-          → 95% adherence to GROW/STAR frameworks, -25% inference latency
-
-[2025-01] Web Development Intern @ Saint-Gobain India (INDEC 4.0)
-          → Django + PostgreSQL asset mgmt, RBAC, relational schema design
-
-[2024-07] Data Analyst Intern @ Vebbox Software Solutions
-          → automated ingestion pipelines, unstructured data → JSON
-```
+</details>
 
 ---
 
-## `$ cat architecture.md`
+<!-- ============================== PROJECTS ============================== -->
+## Featured Projects
 
-*(the shape I reach for behind most of my AI systems)*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Coact.ai</h3>
+      <sub><b>AI-Powered Coaching Simulator</b> · Client project, Maestrominds · Mar 2026 – Present</sub>
+      <br/><br/>
+      GenAI coaching platform whose RAG engine adapts to <b>GROW</b> and <b>STAR</b> frameworks and gives coaches real-time conversational feedback.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20OpenAI-0078d4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-0467df?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-8957e5?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>ThermoRevive</h3>
+      <sub><b>Electricity from Transformer Waste Heat</b> · Patent App. No. 202541114252 A · Published Jan 2026</sub>
+      <br/><br/>
+      Thermoelectric system converting transformer waste heat into usable DC electricity, with a real-time CMS dashboard for sensor streaming and predictive maintenance. ROS2 digital twin in progress.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS2-22314e?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/Real--time%20CMS-2ea043?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Enterprise Asset Lifecycle Management</h3>
+      <sub><b>Intern project</b> · Saint-Gobain (INDEC 4.0) · Jan 2025 – Feb 2025</sub>
+      <br/><br/>
+      Scalable asset lifecycle platform managing <b>1,000+ records</b> with full CRUD functionality, RBAC, and strict enterprise IT compliance.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/RBAC-d73a49?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Service Request Management Platform</h3>
+      <sub><b>Intern project</b> · GH Induction India · Mar 2026 – Jun 2026</sub>
+      <br/><br/>
+      Core NestJS APIs for service ticket operations, with Firebase Cloud Messaging for real-time status updates to field technicians across mobile interfaces.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase%20FCM-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-```
-┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-│   01 · ENTRY │ --> │ 02 · GATEWAY │ --> │ 03 · REASON  │ --> │ 04 · REMEMBER│
-│  web / mobile│     │ auth · RBAC  │     │ RAG · prompts│     │  Postgres    │
-│    clients   │     │ rate limits  │     │  evaluation  │     │  vectors     │
-└──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
-                                                  │
-                                          "AI is a service,
-                                           not a black box"
-```
-
-Every layer has a job. The AI is never the whole system — it's one accountable service inside one.
-
----
-
-## `$ cat skills.json`
-
-```jsonc
-{
-  "languages":     ["Python", "JavaScript", "TypeScript", "SQL", "Bash"],
-  "backend":       ["Django", "Flask", "NestJS"],
-  "databases":     ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Supabase"],
-  "applied_ai":    ["RAG", "FAISS", "Azure OpenAI", "PyTorch", "TensorFlow", "YOLO"],
-  "systems_ops":   ["Linux", "RHCSA", "Docker", "Podman", "Git", "GitHub Actions", "n8n"],
-  "analytics":     ["Power BI", "UiPath", "Excel"],
-  "certification": "RHCSA — 250-094-836",
-  "currently_compiling": [
-    "Agentic AI (LangGraph, AutoGen)",
-    "LLM fine-tuning (LoRA / QLoRA, PEFT, RLHF)",
-    "Kubernetes & cloud-native DevOps",
-    "LLMOps: guardrails, evaluation pipelines"
-  ]
-}
-```
-
----
-
-## `$ cat trophies.log`
-
-```
-[medal]  2nd Runner-Up, U-25 — World Open Silambam Championship 2025, Doha, Qatar
-[medal]  Runner-Up — 3rd Puducherry–Tamil Nadu Inter-State Silambam Championship 2025
-[lead]   Vice Chairperson — IEEE CTSoc & NPSS Student Chapter
-[lead]   Coordinator — InnovaTN'26 (State-Level School Hackathon)
-[lead]   Secretary — MTS
-[patent] App. No. 202541114252 A — published Jan 2026 (ThermoRevive)
-```
-
----
-
-## 📊 `$ git log --stat`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suyashB45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashB45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=suyashB45&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
+<p align="center">
+  <a href="https://github.com/suyashB45?tab=repositories"><b>Browse all repositories</b></a> ·
+  <a href="https://suyashbalasubramaniam.vercel.app/work"><b>Detailed write-ups</b></a>
+</p>
 
 ---
 
-<div align="center">
+<!-- ============================== EDUCATION ============================== -->
+## Education & Certification
 
-```
-suyash@buildbox:~$ ssh recruiter@your-company
-> connection open. let's build something that matters.
-```
+| | |
+|:---|:---|
+| **Education** | **B.Tech in Artificial Intelligence & Data Science**<br/>Sri Sairam Engineering College, Chennai (Affiliated with Anna University) · 2023 – 2027 |
+| **Certification** | **Red Hat Certified System Administrator (RHCSA)**<br/>Credential ID: `250-094-836` |
 
-[![Portfolio](https://img.shields.io/badge/🌐_full_portfolio-70a5fd?style=for-the-badge)](https://suyashbalasubramaniam.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄_resume-38bdae?style=for-the-badge)](https://suyashbalasubramaniam.vercel.app/Suyash_Balasubramaniam_Resume.pdf)
+---
 
-*Chennai, India · © 2026*
 
-</div>
+
+<!-- ============================== GITHUB STATS ============================== -->
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suyashB45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashB45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+</p>
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=suyashB45&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+</p>
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=suyashB45&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
+<!-- ============================== FOOTER ============================== -->
+## Let's Connect
+
+I'm open to **Software Engineering** and **AI Engineering** opportunities. If you're building something that matters, I'd like to hear about it.
+
+<p align="center">
+  <a href="mailto:suyashbalasubramaniam@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/suyashb45"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://suyashb.me/"><img src="https://img.shields.io/badge/Visit%20Portfolio-70a5fd?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suyashB45.suyashB45&left_color=0d1117&right_color=70a5fd" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:70a5fd,50:2c5364,100:0f2027&section=footer" alt="Footer wave" />
+</p>
