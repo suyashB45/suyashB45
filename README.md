@@ -61,7 +61,8 @@ I'm studying Artificial Intelligence & Data Science at Sri Sairam Engineering Co
 
 At Maestrominds, I built coaching flows connecting FAISS retrieval, Azure OpenAI responses, and sentiment feedback. The work focused on making feedback specific and aligning guidance with GROW and STAR frameworks.
 
-`Python` `Flask` `Azure OpenAI` `FAISS` `RAG`
+<img src="https://skillicons.dev/icons?i=py,flask,azure" height="44" alt="py, flask, azure" /><br />
+<img src="https://img.shields.io/badge/FAISS-0467df?style=flat-square" alt="FAISS" /> <img src="https://img.shields.io/badge/RAG-8957e5?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/Azure%20OpenAI-0078d4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
 
 ### 02 / When software meets waste heat
 
@@ -69,7 +70,8 @@ At Maestrominds, I built coaching flows connecting FAISS retrieval, Azure OpenAI
 
 ThermoRevive explores converting transformer waste heat into usable DC electricity, with published patent application **202541114252 A**. Its public digital-twin workspace connects thermal simulation, telemetry, persistence, and a monitoring dashboard.
 
-`ROS 2` `Gazebo` `FastAPI` `PostgreSQL` `React`
+<img src="https://skillicons.dev/icons?i=ros,fastapi,postgres,react" height="44" alt="ros, fastapi, postgres, react" /><br />
+<img src="https://img.shields.io/badge/Gazebo-ff6f00?style=flat-square" alt="Gazebo" /> <img src="https://img.shields.io/badge/ROS%202-22314e?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
 
 [Read the code and explore the digital twin →](https://github.com/suyashB45/ros2-thermorevive-digital-twin)
 
@@ -77,26 +79,22 @@ ThermoRevive explores converting transformer waste heat into usable DC electrici
 
 | Project | My contribution | Stack |
 | --- | --- | --- |
-| **Enterprise Asset Lifecycle Management** · Saint-Gobain INDEC 4.0 | Built asset workflows, relational data models, and role-based access controls. | Django · PostgreSQL |
-| **Service Request Management** · GH Induction India | Built service-ticket lifecycle modules and push notifications for field technicians. | NestJS · MySQL · Firebase Cloud Messaging |
-| **Data automation** · Vebbox Software Solutions | Turned unstructured files into structured JSON for AI training workflows and automated data ingestion. | Python · UiPath |
+| **Enterprise Asset Lifecycle Management** · Saint-Gobain INDEC 4.0 | Built asset workflows, relational data models, and role-based access controls. | <img src="https://skillicons.dev/icons?i=django,postgres" height="36" alt="django, postgres" /> |
+| **Service Request Management** · GH Induction India | Built service-ticket lifecycle modules and push notifications for field technicians. | <img src="https://skillicons.dev/icons?i=nestjs,mysql,firebase" height="36" alt="nestjs, mysql, firebase" /> |
+| **Data automation** · Vebbox Software Solutions | Turned unstructured files into structured JSON for AI training workflows and automated data ingestion. | <img src="https://skillicons.dev/icons?i=py" height="36" alt="py" /> <img src="https://img.shields.io/badge/UiPath-fa4616?style=flat-square&logo=uipath&logoColor=white" alt="UiPath" /> |
 
 [Explore the project stories on my portfolio →](https://suyashb.me)
 
 ## Tools I build with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,azure,pytorch,tensorflow,flask,django,nestjs,nodejs,postgres,mysql,mongodb,supabase,linux,docker,git,githubactions,powerbi&perline=9" alt="Core toolkit: Python, JavaScript, Azure, PyTorch, TensorFlow, Flask, Django, NestJS, Node.js, PostgreSQL, MySQL, MongoDB, Supabase, Linux, Docker, Git, GitHub Actions, and Power BI." />
-</p>
-
 | Layer | Toolkit |
 | --- | --- |
-| **Languages** | Python · JavaScript · SQL |
-| **AI & ML** | Azure OpenAI · FAISS · PyTorch · TensorFlow · YOLO |
-| **Backend** | Flask · Django · NestJS · Node.js |
-| **Data** | PostgreSQL · MySQL · MongoDB · Supabase |
-| **Systems** | Linux · Docker · Podman · Git · GitHub Actions |
-| **Automation & reporting** | UiPath · n8n · Power BI · Excel |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css" height="44" alt="py, js, html, css" /> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="44" alt="pytorch, tensorflow" /><br /><img src="https://img.shields.io/badge/Azure%20OpenAI-0078d4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" /> <img src="https://img.shields.io/badge/FAISS-0467df?style=flat-square" alt="FAISS" /> <img src="https://img.shields.io/badge/RAG-8957e5?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/YOLO-111f68?style=flat-square" alt="YOLO" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=flask,django,nestjs,nodejs,fastapi" height="44" alt="flask, django, nestjs, nodejs, fastapi" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" height="44" alt="postgres, mysql, mongodb, supabase, firebase" /> |
+| **Systems** | <img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,azure" height="44" alt="linux, docker, git, githubactions, azure" /><br /><img src="https://img.shields.io/badge/Podman-892ca0?style=flat-square&logo=podman&logoColor=white" alt="Podman" /> |
+| **Automation & reporting** | <img src="https://img.shields.io/badge/UiPath-fa4616?style=flat-square&logo=uipath&logoColor=white" alt="UiPath" /> <img src="https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Power%20BI-f2c811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" /> |
 
 ## How I approach a build
 
